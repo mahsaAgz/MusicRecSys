@@ -49,6 +49,7 @@ Our model **CCFCRec** consists of:
 1. **Content-Based Collaborative Filtering (CBCE):** Generates embeddings from song metadata.
 2. **Co-occurrence Collaborative Filtering (COCE):** Learns user-item interaction patterns.
 3. **Contrastive Learning Mechanism:** Transfers knowledge between CBCE and COCE for **better cold-start recommendations**.
+![Picture1](https://github.com/user-attachments/assets/5570c95b-de12-4a8e-8f97-1d04bd72f0b9)
 
 The **loss function** is defined as:
 
