@@ -50,6 +50,7 @@ Our model **CCFCRec** consists of:
 2. **Co-occurrence Collaborative Filtering (COCE):** Learns user-item interaction patterns.
 3. **Contrastive Learning Mechanism:** Transfers knowledge between CBCE and COCE for **better cold-start recommendations**.
 ![Picture1](https://github.com/user-attachments/assets/5570c95b-de12-4a8e-8f97-1d04bd72f0b9)
+*Figure adapted from Zhou, Zhang & Yang (2023), [Contrastive Collaborative Filtering for Cold-Start Item Recommendation](https://doi.org/10.1145/3543507.3583286).*
 
 The **loss function** is defined as:
 
